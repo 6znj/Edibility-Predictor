@@ -584,3 +584,15 @@ e,x,s,w,t,a,f,c,b,g,e,c,s,s,w,w,p,w,o,p,n,n,m
 e,x,s,y,t,a,f,c,b,w,e,c,s,s,w,w,p,w,o,p,n,s,m
 e,x,y,w,t,l,f,c,b,k,e,c,s,s,w,w,p,w,o,p,k,n,g
 e,x,y,y,t,a,f,c,b,n,e,r,s,y,w,w,p,w,o,p,n,y,g
+e,f,y,y,t,a,f,c,b,w,e,r,s,y,w,w,p,w,o,p,k,s,g
+e,x,y,w,t,a,f,c,b,k,e,c,s,s,w,w,p,w,o,p,n,s,m
+e,s,f,g,f,n,f,c,n,g,e,e,s,s,w,w,p,w,o,p,k,v,u
+e,f,f,n,f,n,f,c,n,n,e,e,s,s,w,w,p,w,o,p,k,y,u
+e,s,f,g,f,n,f,c,n,n,e,e,s,s,w,w,p,w,o,p,k,v,u
+e,x,y,w,t,a,f,c,b,n,e,c,s,s,w,w,p,w,o,p,k,n,m
+p,x,s,w,t,p,f,c,n,k,e,e,s,s,w,w,p,w,o,p,k,s,u
+e,x,s,g,f,n,f,w,b,h,t,e,s,f,w,w,p,w,o,e,k,s,g
+e,x,y,y,t,l,f,c,b,g,e,c,s,s,w,w,p,w,o,p,k,s,g
+p,x,y,w,t,p,f,c,n,k,e,e,s,s,w,w,p,w,o,p,n,s,g
+e,x,s,y,t,a,f,c,b,g,e,c,s,s,w,w,p,w,o,p,k,n,m
+p,x,s,n,t,p,f,c,n,p,e,e,s,s,w,w,p,w,o,p,k,v,u
