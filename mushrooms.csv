@@ -2411,3 +2411,12 @@ e,x,f,e,t,n,f,c,b,w,t,b,s,s,w,w,p,w,o,p,n,y,d
 e,x,y,e,t,n,f,c,b,w,t,b,s,s,g,w,p,w,o,p,k,y,d
 e,f,f,g,t,n,f,c,b,n,t,b,s,s,p,g,p,w,o,p,n,y,d
 e,x,f,g,t,n,f,c,b,p,t,b,s,s,w,w,p,w,o,p,k,v,d
+e,f,f,n,t,n,f,c,b,p,t,b,s,s,w,p,p,w,o,p,n,v,d
+e,x,y,n,t,n,f,c,b,p,t,b,s,s,p,p,p,w,o,p,n,v,d
+e,x,y,g,t,n,f,c,b,n,t,b,s,s,p,p,p,w,o,p,k,v,d
+e,x,f,g,t,n,f,c,b,u,t,b,s,s,p,p,p,w,o,p,n,v,d
+e,x,y,n,t,n,f,c,b,p,t,b,s,s,p,p,p,w,o,p,k,y,d
+e,f,f,n,t,n,f,c,b,w,t,b,s,s,g,p,p,w,o,p,n,v,d
+e,x,y,n,t,n,f,c,b,u,t,b,s,s,g,w,p,w,o,p,k,y,d
+e,x,y,n,t,n,f,c,b,p,t,b,s,s,p,g,p,w,o,p,k,y,d
+e,f,f,n,t,n,f,c,b,p,t,b,s,s,p,g,p,w,o,p,k,v,d
