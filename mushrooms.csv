@@ -2470,3 +2470,14 @@ e,f,f,n,t,n,f,c,b,p,t,b,s,s,g,p,p,w,o,p,n,v,d
 e,x,y,e,t,n,f,c,b,p,t,b,s,s,p,w,p,w,o,p,k,v,d
 e,x,f,n,t,n,f,c,b,u,t,b,s,s,p,p,p,w,o,p,k,y,d
 e,x,y,g,t,n,f,c,b,w,t,b,s,s,g,p,p,w,o,p,k,v,d
+e,f,f,g,t,n,f,c,b,p,t,b,s,s,w,g,p,w,o,p,k,v,d
+e,x,f,g,t,n,f,c,b,p,t,b,s,s,w,g,p,w,o,p,n,v,d
+e,x,f,n,t,n,f,c,b,w,t,b,s,s,g,g,p,w,o,p,k,v,d
+e,x,y,g,t,n,f,c,b,w,t,b,s,s,p,w,p,w,o,p,n,v,d
+e,x,y,g,t,n,f,c,b,p,t,b,s,s,w,p,p,w,o,p,n,y,d
+e,x,y,e,t,n,f,c,b,n,t,b,s,s,w,p,p,w,o,p,n,v,d
+e,x,y,n,t,n,f,c,b,w,t,b,s,s,p,g,p,w,o,p,k,v,d
+e,x,y,g,t,n,f,c,b,u,t,b,s,s,w,g,p,w,o,p,k,y,d
+p,f,y,n,t,p,f,c,n,k,e,e,s,s,w,w,p,w,o,p,k,s,u
+e,x,s,g,f,n,f,w,b,n,t,e,f,s,w,w,p,w,o,e,n,s,g
+e,x,f,g,t,n,f,c,b,u,t,b,s,s,g,p,p,w,o,p,k,v,d
