@@ -4079,3 +4079,12 @@ p,x,f,y,f,f,f,c,b,h,e,b,k,k,p,n,p,w,o,l,h,y,g
 e,f,y,u,f,n,f,c,n,h,e,?,s,f,w,w,p,w,o,f,h,y,d
 e,f,y,n,t,n,f,c,b,u,t,b,s,s,p,w,p,w,o,p,n,y,d
 p,f,y,y,f,f,f,c,b,p,e,b,k,k,p,p,p,w,o,l,h,v,g
+p,f,f,y,f,f,f,c,b,g,e,b,k,k,b,b,p,w,o,l,h,v,g
+p,x,y,g,f,f,f,c,b,g,e,b,k,k,n,p,p,w,o,l,h,y,d
+p,x,y,g,f,f,f,c,b,p,e,b,k,k,n,p,p,w,o,l,h,y,p
+p,f,f,y,f,f,f,c,b,g,e,b,k,k,p,b,p,w,o,l,h,v,p
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,b,b,p,w,o,l,h,y,d
+p,x,f,y,f,f,f,c,b,h,e,b,k,k,b,b,p,w,o,l,h,v,p
+p,x,y,g,f,f,f,c,b,p,e,b,k,k,b,n,p,w,o,l,h,v,p
+p,x,f,y,f,f,f,c,b,h,e,b,k,k,n,b,p,w,o,l,h,y,p
+e,x,f,g,t,n,f,c,b,u,t,b,s,s,p,g,p,w,o,p,n,v,d
