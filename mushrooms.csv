@@ -4213,3 +4213,17 @@ p,x,y,g,f,f,f,c,b,g,e,b,k,k,n,p,p,w,o,l,h,y,g
 p,f,f,g,f,f,f,c,b,h,e,b,k,k,p,p,p,w,o,l,h,y,g
 p,x,f,y,f,f,f,c,b,p,e,b,k,k,b,b,p,w,o,l,h,y,g
 p,f,f,y,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,v,g
+p,x,f,y,f,f,f,c,b,h,e,b,k,k,n,b,p,w,o,l,h,v,g
+p,x,f,y,f,f,f,c,b,g,e,b,k,k,b,p,p,w,o,l,h,y,g
+p,x,y,y,f,f,f,c,b,p,e,b,k,k,n,p,p,w,o,l,h,v,g
+p,f,s,g,t,f,f,c,b,h,t,b,s,s,w,w,p,w,o,p,h,v,u
+p,x,f,y,f,f,f,c,b,h,e,b,k,k,n,n,p,w,o,l,h,y,g
+p,f,f,y,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,y,g
+p,f,y,g,f,f,f,c,b,p,e,b,k,k,n,p,p,w,o,l,h,y,d
+p,f,f,y,f,f,f,c,b,p,e,b,k,k,p,n,p,w,o,l,h,y,d
+p,f,f,y,f,f,f,c,b,g,e,b,k,k,b,p,p,w,o,l,h,v,d
+p,x,y,g,f,f,f,c,b,h,e,b,k,k,b,n,p,w,o,l,h,v,p
+p,x,y,g,f,f,f,c,b,p,e,b,k,k,n,b,p,w,o,l,h,y,p
+e,f,y,e,t,n,f,c,b,p,t,b,s,s,w,w,p,w,o,p,n,v,d
+p,f,f,y,f,f,f,c,b,h,e,b,k,k,n,p,p,w,o,l,h,v,d
+p,f,f,g,f,f,f,c,b,h,e,b,k,k,b,p,p,w,o,l,h,y,d
