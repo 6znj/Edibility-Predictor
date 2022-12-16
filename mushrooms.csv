@@ -4431,3 +4431,15 @@ p,x,y,y,f,f,f,c,b,h,e,b,k,k,n,n,p,w,o,l,h,v,d
 p,x,f,y,f,f,f,c,b,p,e,b,k,k,n,b,p,w,o,l,h,v,g
 p,x,y,n,f,y,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,d
 p,f,f,y,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,v,p
+p,x,y,y,f,f,f,c,b,h,e,b,k,k,n,b,p,w,o,l,h,v,g
+p,f,f,y,f,f,f,c,b,g,e,b,k,k,n,n,p,w,o,l,h,v,p
+p,f,f,y,f,f,f,c,b,g,e,b,k,k,n,b,p,w,o,l,h,v,d
+p,f,y,g,f,f,f,c,b,p,e,b,k,k,b,p,p,w,o,l,h,v,p
+p,f,y,g,f,f,f,c,b,h,e,b,k,k,b,b,p,w,o,l,h,v,g
+p,f,y,g,f,f,f,c,b,h,e,b,k,k,b,n,p,w,o,l,h,v,d
+p,f,f,g,f,f,f,c,b,g,e,b,k,k,b,n,p,w,o,l,h,v,g
+p,x,s,g,f,c,f,c,n,p,e,b,s,s,w,w,p,w,o,p,k,v,d
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,b,p,p,w,o,l,h,y,g
+p,f,s,g,t,f,f,c,b,h,t,b,f,f,w,w,p,w,o,p,h,s,u
+p,x,y,g,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,v,g
+p,x,y,y,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,y,p
