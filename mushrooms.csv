@@ -4776,3 +4776,16 @@ p,f,f,g,f,f,f,c,b,p,e,b,k,k,n,b,p,w,o,l,h,v,p
 p,x,y,y,f,f,f,c,b,h,e,b,k,k,n,p,p,w,o,l,h,v,p
 p,x,f,y,f,f,f,c,b,h,e,b,k,k,p,n,p,w,o,l,h,v,d
 p,f,y,g,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,y,d
+p,f,f,g,f,f,f,c,b,p,e,b,k,k,b,p,p,w,o,l,h,v,p
+e,x,s,p,t,n,f,c,b,e,e,?,s,s,w,w,p,w,t,e,w,c,w
+p,f,f,y,f,f,f,c,b,p,e,b,k,k,n,p,p,w,o,l,h,v,d
+p,x,s,p,f,c,f,w,n,g,e,b,s,s,w,w,p,w,o,p,k,v,d
+p,x,f,y,f,f,f,c,b,h,e,b,k,k,p,p,p,w,o,l,h,y,g
+p,f,f,g,f,f,f,c,b,g,e,b,k,k,b,p,p,w,o,l,h,y,p
+p,x,f,y,f,f,f,c,b,p,e,b,k,k,n,b,p,w,o,l,h,y,g
+e,f,f,e,t,n,f,c,b,p,t,b,s,s,p,p,p,w,o,p,n,y,d
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,b,n,p,w,o,l,h,v,d
+p,x,f,y,f,f,f,c,b,p,e,b,k,k,b,p,p,w,o,l,h,y,g
+p,f,y,g,f,f,f,c,b,h,e,b,k,k,n,p,p,w,o,l,h,v,g
+p,f,f,y,f,f,f,c,b,p,e,b,k,k,b,p,p,w,o,l,h,y,g
+e,f,y,n,t,n,f,c,b,n,t,b,s,s,p,w,p,w,o,p,n,v,d
