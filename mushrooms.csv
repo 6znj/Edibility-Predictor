@@ -4977,3 +4977,15 @@ p,f,f,g,f,f,f,c,b,p,e,b,k,k,n,b,p,w,o,l,h,v,d
 p,f,y,g,f,f,f,c,b,h,e,b,k,k,b,p,p,w,o,l,h,y,d
 p,f,y,y,f,f,f,c,b,h,e,b,k,k,b,b,p,w,o,l,h,v,d
 p,f,f,y,f,f,f,c,b,p,e,b,k,k,b,b,p,w,o,l,h,v,g
+p,f,y,y,f,f,f,c,b,p,e,b,k,k,p,n,p,w,o,l,h,y,g
+p,x,y,y,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,v,d
+p,x,y,y,f,f,f,c,b,h,e,b,k,k,b,n,p,w,o,l,h,y,p
+p,f,y,g,f,f,f,c,b,g,e,b,k,k,p,n,p,w,o,l,h,v,g
+p,f,f,g,f,f,f,c,b,g,e,b,k,k,b,p,p,w,o,l,h,y,d
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,n,p,p,w,o,l,h,v,p
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,n,n,p,w,o,l,h,y,p
+e,f,y,u,f,n,f,c,n,w,e,?,s,f,w,w,p,w,o,f,h,y,d
+p,f,f,g,f,f,f,c,b,g,e,b,k,k,b,b,p,w,o,l,h,v,g
+p,x,y,n,f,y,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,l
+p,x,y,y,f,f,f,c,b,p,e,b,k,k,p,n,p,w,o,l,h,v,g
+p,x,y,y,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,y,p
