@@ -5095,3 +5095,15 @@ p,x,y,g,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,v,p
 p,f,f,y,f,f,f,c,b,h,e,b,k,k,p,p,p,w,o,l,h,v,g
 p,f,y,y,f,f,f,c,b,h,e,b,k,k,p,n,p,w,o,l,h,v,d
 p,x,f,y,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,y,d
+p,f,f,y,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,v,p
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,n,b,p,w,o,l,h,y,d
+p,b,y,p,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,r,v,g
+e,k,y,p,t,n,f,c,b,e,e,?,s,s,w,w,p,w,t,e,w,c,w
+p,x,y,y,f,f,f,c,b,g,e,b,k,k,b,b,p,w,o,l,h,v,p
+p,x,f,y,f,f,f,c,b,p,e,b,k,k,p,p,p,w,o,l,h,v,g
+e,k,y,b,t,n,f,c,b,e,e,?,s,s,w,e,p,w,t,e,w,c,w
+p,f,y,y,f,f,f,c,b,p,e,b,k,k,n,n,p,w,o,l,h,y,d
+p,x,s,w,t,f,f,c,b,p,t,b,s,s,w,w,p,w,o,p,h,s,u
+p,x,y,n,f,s,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,p
+p,x,y,n,f,y,f,c,n,b,t,?,s,k,w,w,p,w,o,e,w,v,d
+p,x,y,e,f,y,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,p
