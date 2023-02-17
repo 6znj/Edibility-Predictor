@@ -5314,3 +5314,13 @@ p,x,y,n,f,f,f,c,n,b,t,?,s,k,p,p,p,w,o,e,w,v,p
 p,b,y,n,f,n,f,c,n,w,e,?,k,y,w,y,p,w,o,e,w,v,d
 p,x,y,n,f,s,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,p
 e,f,y,b,t,n,f,c,b,e,e,?,s,s,w,e,p,w,t,e,w,c,w
+p,x,s,w,t,f,f,c,b,h,t,b,f,s,w,w,p,w,o,p,h,v,g
+p,f,y,y,f,f,f,c,b,p,e,b,k,k,p,b,p,w,o,l,h,v,g
+e,f,y,n,t,n,f,c,b,w,e,?,s,s,w,w,p,w,t,e,w,c,w
+p,b,y,w,t,n,f,c,b,g,e,b,s,s,w,w,p,w,t,p,r,v,m
+e,x,y,n,f,n,f,w,n,w,e,b,s,f,w,n,p,w,o,e,w,v,l
+p,f,y,y,f,f,f,c,b,g,e,b,k,k,n,p,p,w,o,l,h,v,p
+p,x,s,b,t,f,f,c,b,h,t,b,f,s,w,w,p,w,o,p,h,s,g
+p,x,y,n,f,s,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,l
+p,x,s,g,t,f,f,c,b,h,t,b,s,s,w,w,p,w,o,p,h,s,u
+p,f,s,g,t,f,f,c,b,w,t,b,s,f,w,w,p,w,o,p,h,s,u
