@@ -5287,3 +5287,12 @@ e,f,y,w,f,n,f,c,n,u,e,?,s,f,w,w,p,w,o,f,h,y,d
 e,x,y,r,f,n,f,c,n,w,e,?,s,f,w,w,p,w,o,f,h,v,d
 e,x,s,b,t,n,f,c,b,w,e,?,s,s,w,e,p,w,t,e,w,c,w
 p,f,s,g,t,f,f,c,b,h,t,b,s,s,w,w,p,w,o,p,h,v,g
+p,x,y,e,f,y,f,c,n,b,t,?,s,k,p,w,p,w,o,e,w,v,d
+p,f,y,y,f,f,f,c,b,g,e,b,k,k,n,b,p,w,o,l,h,y,p
+p,f,s,g,t,f,f,c,b,w,t,b,s,s,w,w,p,w,o,p,h,s,g
+p,f,s,b,t,f,f,c,b,h,t,b,s,s,w,w,p,w,o,p,h,s,g
+e,f,s,e,t,n,f,c,b,e,e,?,s,s,e,w,p,w,t,e,w,c,w
+p,x,y,e,f,y,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,d
+p,f,f,g,f,f,f,c,b,p,e,b,k,k,b,b,p,w,o,l,h,y,g
+p,f,y,y,f,f,f,c,b,g,e,b,k,k,b,b,p,w,o,l,h,y,d
+e,x,s,n,t,n,f,c,b,e,e,?,s,s,e,w,p,w,t,e,w,c,w
