@@ -6799,3 +6799,6 @@ p,x,y,e,f,s,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,l
 p,f,y,n,f,f,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,l
 p,f,s,n,f,f,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,l
 p,f,s,n,f,y,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,p
+p,k,y,e,f,f,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,l
+p,f,s,e,f,y,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,l
+p,x,s,e,f,s,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,p
