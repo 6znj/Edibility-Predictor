@@ -6877,3 +6877,13 @@ p,x,s,n,f,y,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,d
 p,x,s,e,f,s,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,p
 p,f,s,n,f,f,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,l
 p,x,s,n,f,y,f,c,n,b,t,?,k,k,p,w,p,w,o,e,w,v,l
+p,f,y,e,f,y,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,d
+p,x,s,n,f,f,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,d
+p,f,y,e,f,f,f,c,n,b,t,?,k,k,p,p,p,w,o,e,w,v,l
+p,f,s,e,f,f,f,c,n,b,t,?,k,s,w,w,p,w,o,e,w,v,p
+p,f,y,n,f,f,f,c,n,b,t,?,k,k,p,p,p,w,o,e,w,v,l
+p,f,y,n,f,y,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,d
+p,x,y,e,f,f,f,c,n,b,t,?,k,k,p,w,p,w,o,e,w,v,d
+e,k,f,g,f,n,f,w,b,w,e,?,k,k,w,w,p,w,t,p,w,n,g
+p,x,s,e,f,y,f,c,n,b,t,?,s,k,p,p,p,w,o,e,w,v,d
+p,k,y,n,f,y,f,c,n,b,t,?,s,k,p,p,p,w,o,e,w,v,d
