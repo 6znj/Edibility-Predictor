@@ -7060,3 +7060,11 @@ p,k,s,n,f,y,f,c,n,b,t,?,k,k,p,w,p,w,o,e,w,v,p
 p,k,s,e,f,s,f,c,n,b,t,?,s,k,w,w,p,w,o,e,w,v,l
 p,f,s,e,f,s,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,p
 p,x,s,e,f,s,f,c,n,b,t,?,s,s,p,p,p,w,o,e,w,v,p
+p,x,s,e,f,y,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,d
+p,x,s,n,f,s,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,d
+p,k,y,n,f,y,f,c,n,b,t,?,s,k,w,w,p,w,o,e,w,v,d
+e,x,s,p,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,y,p
+p,f,s,e,f,y,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,d
+p,x,y,n,f,m,a,c,b,w,e,c,k,y,c,c,p,w,n,n,w,c,d
+p,k,s,n,f,f,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,l
+e,k,s,g,f,n,f,w,b,g,e,?,k,k,w,w,p,w,t,p,w,s,g
