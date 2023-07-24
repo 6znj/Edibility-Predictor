@@ -7153,3 +7153,13 @@ p,f,s,n,f,s,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,l
 p,f,y,e,f,f,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,p
 p,f,s,e,f,f,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,l
 p,x,s,e,f,s,f,c,n,b,t,?,k,k,w,w,p,w,o,e,w,v,d
+e,k,s,g,f,n,f,w,b,w,e,?,k,s,w,w,p,w,t,p,w,s,g
+p,x,s,e,f,y,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,p
+p,k,s,n,f,y,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,l
+p,k,y,e,f,s,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,l
+p,x,s,n,f,y,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,p
+e,b,s,g,f,n,f,w,b,g,e,?,s,k,w,w,p,w,t,p,w,n,g
+p,x,s,n,f,s,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,l
+p,f,s,e,f,s,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,d
+p,k,s,n,f,s,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,d
+e,b,s,g,f,n,f,w,b,w,e,?,s,s,w,w,p,w,t,p,w,s,g
