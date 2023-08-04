@@ -7249,3 +7249,15 @@ e,k,f,g,f,n,f,w,b,w,e,?,k,k,w,w,p,w,t,p,w,s,g
 e,b,s,n,f,n,a,c,b,o,e,?,s,s,o,o,p,o,o,p,o,c,l
 p,k,s,n,f,s,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,l
 p,k,y,e,f,s,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,l
+p,k,y,e,f,y,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,p
+p,k,s,n,f,y,f,c,n,b,t,?,s,s,p,p,p,w,o,e,w,v,l
+e,f,s,n,f,n,a,c,b,n,e,?,s,s,o,o,p,o,o,p,n,c,l
+p,k,s,e,f,y,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,d
+e,x,s,n,f,n,a,c,b,o,e,?,s,s,o,o,p,o,o,p,o,v,l
+p,k,s,n,f,y,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,d
+e,k,s,w,f,n,f,w,b,p,e,?,s,s,w,w,p,w,t,p,w,s,g
+p,k,y,e,f,f,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,d
+p,k,y,n,f,f,f,c,n,b,t,?,k,k,p,w,p,w,o,e,w,v,d
+e,k,f,g,f,n,f,w,b,g,e,?,s,s,w,w,p,w,t,p,w,s,g
+p,f,s,n,f,y,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,p
+e,x,s,g,f,n,f,w,b,w,e,?,s,s,w,w,p,w,t,p,w,n,g
