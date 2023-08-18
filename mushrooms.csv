@@ -7373,3 +7373,14 @@ p,x,s,n,f,y,f,c,n,b,t,?,s,s,w,w,p,w,o,e,w,v,d
 e,x,y,p,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,v,p
 p,k,y,n,f,s,f,c,n,b,t,?,s,k,p,p,p,w,o,e,w,v,p
 e,k,s,g,f,n,f,w,b,g,e,?,s,k,w,w,p,w,t,p,w,n,g
+e,b,s,g,f,n,f,w,b,p,e,?,s,k,w,w,p,w,t,p,w,s,g
+p,k,s,e,f,f,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,p
+e,x,s,n,f,n,a,c,b,o,e,?,s,s,o,o,p,n,o,p,b,v,l
+e,b,s,n,f,n,a,c,b,o,e,?,s,s,o,o,p,n,o,p,b,v,l
+e,f,s,n,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,y,p
+e,k,s,g,f,n,f,w,b,g,e,?,s,s,w,w,p,w,t,p,w,s,g
+p,f,s,n,f,y,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,d
+p,k,s,n,f,f,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,d
+p,f,y,n,f,s,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,l
+p,k,y,e,f,y,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,d
+p,k,s,n,f,f,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,l
