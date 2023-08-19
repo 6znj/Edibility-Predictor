@@ -7416,3 +7416,12 @@ e,k,s,n,f,n,a,c,b,n,e,?,s,s,o,o,p,o,o,p,n,c,l
 e,b,s,n,f,n,a,c,b,y,e,?,s,s,o,o,p,n,o,p,n,v,l
 p,x,s,n,f,f,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,d
 e,x,s,g,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,v,p
+e,x,f,g,f,n,f,w,b,w,e,?,k,s,w,w,p,w,t,p,w,s,g
+p,k,s,n,f,s,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,l
+e,k,f,g,f,n,f,w,b,p,e,?,k,s,w,w,p,w,t,p,w,n,g
+p,k,s,n,f,f,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,p
+p,k,y,e,f,y,f,c,n,b,t,?,s,s,p,p,p,w,o,e,w,v,d
+p,k,y,n,f,s,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,d
+e,f,s,p,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,y,p
+p,k,y,n,f,f,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,d
+p,k,y,e,f,f,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,p
