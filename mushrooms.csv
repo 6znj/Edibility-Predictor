@@ -7960,3 +7960,10 @@ e,f,s,n,f,n,a,c,b,y,e,?,s,s,o,o,p,o,o,p,o,c,l
 e,k,s,n,f,n,a,c,b,n,e,?,s,s,o,o,p,n,o,p,o,c,l
 e,k,f,w,f,n,f,w,b,g,e,?,s,s,w,w,p,w,t,p,w,n,g
 p,k,y,e,f,f,f,c,n,b,t,?,k,s,w,p,p,w,o,e,w,v,l
+e,b,f,w,f,n,f,w,b,g,e,?,k,k,w,w,p,w,t,p,w,s,g
+p,k,y,n,f,y,f,c,n,b,t,?,s,s,w,p,p,w,o,e,w,v,p
+p,k,y,e,f,y,f,c,n,b,t,?,k,k,w,p,p,w,o,e,w,v,d
+p,k,y,n,f,f,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,d
+e,x,s,n,f,n,a,c,b,o,e,?,s,s,o,o,p,n,o,p,y,v,l
+e,x,y,n,t,n,f,c,b,w,e,b,s,s,w,w,p,w,t,p,w,y,p
+e,b,s,w,f,n,f,w,b,p,e,?,s,k,w,w,p,w,t,p,w,n,g
