@@ -8022,3 +8022,10 @@ e,x,s,w,f,n,f,w,b,w,e,?,s,k,w,w,p,w,t,p,w,s,g
 e,b,f,w,f,n,f,w,b,p,e,?,s,k,w,w,p,w,t,p,w,s,g
 p,k,y,n,f,y,f,c,n,b,t,?,s,s,p,p,p,w,o,e,w,v,d
 p,f,s,n,f,y,f,c,n,b,t,?,k,s,p,w,p,w,o,e,w,v,l
+p,f,y,e,f,y,f,c,n,b,t,?,k,k,p,p,p,w,o,e,w,v,p
+p,k,s,e,f,y,f,c,n,b,t,?,s,k,w,p,p,w,o,e,w,v,p
+p,k,y,n,f,f,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,d
+e,x,s,n,f,n,a,c,b,y,e,?,s,s,o,o,p,n,o,p,y,c,l
+e,f,s,n,f,n,a,c,b,y,e,?,s,s,o,o,p,n,o,p,n,v,l
+p,k,y,n,f,f,f,c,n,b,t,?,k,s,p,p,p,w,o,e,w,v,l
+p,k,s,n,f,f,f,c,n,b,t,?,s,s,p,w,p,w,o,e,w,v,l
